@@ -1,8 +1,12 @@
 # <img src="https://media.giphy.com/media/JrXas5ecb4FkwbFpIE/giphy.gif" width="80" height="80" style="margin-right: 20px"/>  Bienvenidos al GitHub de Randolf Herrera. 
 ### Un espacio para el analísis de Datos y analísis economico.
 ---
+<div style="text-align: center;"> 
 
 ![Banner Randolf Herrera.](banner-analisis.png)
+
+</div>
+
 <div style="text-align: center;"> 
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/randolfherrera/)
