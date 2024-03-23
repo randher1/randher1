@@ -17,4 +17,4 @@
 
 Un espacio para la comunidad hambienda de conocimientos sobre la ciencia de datos, interesados en aprender y compartir el conocimiento en lenguajes como R, Python, realizando reportes estaticos y dinamicos con tegnologias como `Latex` para los informes y reportes estaticos y `HTML` `CSS` `Javascripts` utilizando en backend `Django`para crear API'S y en el lado del frontend `React` para sitios webs dinamicos y `Flutters`en el entorno Movil.
 
-Tambiem se estarán estudiando las variables Geoespaciales y su vizualización con `Leafle entre otras.
+Tambiem se estarán estudiando las variables Geoespaciales y su vizualización con $Leaflet$ entre otras.
