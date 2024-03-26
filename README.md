@@ -25,4 +25,4 @@ Tambiem se estarán estudiando las variables Geoespaciales y su vizualización c
                     </p>
                     
 ## Las estadisticas del repositorio
-![Condor Coders' GitHub stats](https://github-readme-stats.vercel.app/api?username=randher1&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=randher1&layout=compact&theme=dark)
+![randher1 GitHub stats](https://github-readme-stats.vercel.app/api?username=randher1&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=randher1&layout=compact&theme=dark)
