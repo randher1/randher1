@@ -3,7 +3,7 @@
 ---
 <div style="text-align: center;"> 
 
-![Banner Randolf Herrera.](banner-analisis.png)
+![Banner Randolf Herrera.](banner.png)
 
 </div>
 
