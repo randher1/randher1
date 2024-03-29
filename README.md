@@ -15,6 +15,14 @@
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/randolfherrera)
 </div>
 
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="randherdatascience" data-color="#FFDD00" data-emoji=""  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" >
+</script>
+
+<a href="https://www.buymeacoffee.com/randherdatascience" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 217px !important;" ></a>
+
+
+
+
 Un espacio para la comunidad hambienda de conocimientos sobre la ciencia de datos, interesados en aprender y compartir el conocimiento en lenguajes como R, Python, realizando reportes estaticos y dinamicos con tegnologias como `Latex` para los informes y reportes estaticos y `HTML` `CSS` `Javascripts` utilizando en backend `Django`para crear API'S y en el lado del frontend `React` para sitios webs dinamicos y `Flutters`en el entorno Movil.
 
 Tambiem se estarán estudiando las variables Geoespaciales y su vizualización con $Leaflet$ entre otras.
