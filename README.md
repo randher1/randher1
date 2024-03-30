@@ -1,4 +1,9 @@
-# <img src="https://media.giphy.com/media/JrXas5ecb4FkwbFpIE/giphy.gif" width="80" height="80" style="margin-right: 20px"/>  Bienvenidos al GitHub de Randolf Herrera. 
+# <img src="https://media.giphy.com/media/JrXas5ecb4FkwbFpIE/giphy.gif" width="80" height="80" style="margin-right: 20px"/>  
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hola+a+Todos!+👋;+Soy+Randolf+Herrera!;" />
+</h1>
+
 ### Un espacio para el analísis de Datos y analísis economico.
 ---
 <div style="text-align: center;"> 
