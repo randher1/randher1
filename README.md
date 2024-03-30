@@ -1,3 +1,5 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=randher1.randher1" />
+
 # <img src="https://media.giphy.com/media/JrXas5ecb4FkwbFpIE/giphy.gif" width="80" height="80" style="margin-right: 20px"/>  
 
 <h1 align="center">
