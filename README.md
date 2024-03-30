@@ -1,6 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=randher1.randher1" />
 
-# <img src="https://media.giphy.com/media/JrXas5ecb4FkwbFpIE/giphy.gif" width="80" height="80" style="margin-right: 20px"/>  
+<img src="https://media.giphy.com/media/JrXas5ecb4FkwbFpIE/giphy.gif" width="80" height="80" style="margin-right: 20px"/>  
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hola+a+Todos!+👋;+Soy+Randolf+Herrera!;" />
