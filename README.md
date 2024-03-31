@@ -40,7 +40,7 @@ Tambiem se estarán estudiando las variables Geoespaciales y su vizualización c
 ![Snake](https://raw.githubusercontent.com/randher1/randher1/output/github-contribution-grid-snake-dark.svg)
 
 ## Estadisticas del repositorio
-[![GitHub Streak](https://streak-stats.demolab.com/?user=randher1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=randher1&theme=dark)](https://git.io/streak-stats)
 
 
 
