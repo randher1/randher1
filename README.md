@@ -37,11 +37,10 @@ Tambiem se estarán estudiando las variables Geoespaciales y su vizualización c
                     </p>
                     
 ## Contibuciones:
-![](https://raw.githubusercontent.com/randher1/randher1/output/github-contribution-grid-snake-dark.svg)
+![Snake](https://raw.githubusercontent.com/randher1/randher1/output/github-contribution-grid-snake-dark.svg)
 
-## Las estadisticas del repositorio
+## Estadisticas del repositorio
 [![GitHub Streak](https://streak-stats.demolab.com/?user=randher1)](https://git.io/streak-stats)
 
-![randher1 GitHub stats](https://github-readme-stats.vercel.app/api?username=randher1&show_icons=true&theme=dark) 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=randher1&layout=compact&theme=dark)
+|![randher1 GitHub stats](https://github-readme-stats.vercel.app/api?username=randher1&show_icons=true&theme=dark)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=randher1&layout=compact&theme=dark)|
+|----|----|
