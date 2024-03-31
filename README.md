@@ -42,5 +42,16 @@ Tambiem se estarán estudiando las variables Geoespaciales y su vizualización c
 ## Estadisticas del repositorio
 [![GitHub Streak](https://streak-stats.demolab.com/?user=randher1)](https://git.io/streak-stats)
 
+<style>
+  table {
+    border-collapse: collapse;
+  }
+  th, td {
+    border: none;
+  }
+</style>
+
 |![randher1 GitHub stats](https://github-readme-stats.vercel.app/api?username=randher1&show_icons=true&theme=dark)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=randher1&layout=compact&theme=dark)|
 |----|----|
+
+---
