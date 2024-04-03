@@ -51,6 +51,7 @@ Tambiem se estarán estudiando las variables Geoespaciales y su vizualización c
 |----|----|
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![De cero a datos](https://ytcards.demolab.com/?id=77c_I7H2n3g&title=De+cero+a+datos&lang=en&timestamp=1711986616&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "De cero a datos")](https://www.youtube.com/watch?v=77c_I7H2n3g)
 <!-- END YOUTUBE-CARDS -->
 
 ---
