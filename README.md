@@ -50,7 +50,7 @@ Tambiem se estarán estudiando las variables Geoespaciales y su vizualización c
 |![randher1 GitHub stats](https://github-readme-stats.vercel.app/api?username=randher1&show_icons=true&theme=dark)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=randher1&layout=compact&&langs_count=8&theme=dark)|
 |----|----|
 
-## Mira mis últimos vídeos de Youtube.
+## Vídeos de Youtube.
 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![De cero a datos](https://ytcards.demolab.com/?id=77c_I7H2n3g&title=De+cero+a+datos&lang=en&timestamp=1711986616&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "De cero a datos")](https://www.youtube.com/watch?v=77c_I7H2n3g)
