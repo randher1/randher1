@@ -53,6 +53,7 @@ Tambiem se estarán estudiando las variables Geoespaciales y su vizualización c
 ## Vídeos de Youtube.
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![📂🔍 ¡Explorando Datos! Cargando Archivos en R - 01 📊🔌](https://ytcards.demolab.com/?id=beltQGIiLmc&title=%F0%9F%93%82%F0%9F%94%8D+%C2%A1Explorando+Datos%21+Cargando+Archivos+en+R+-+01+%F0%9F%93%8A%F0%9F%94%8C&lang=en&timestamp=1712529186&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "📂🔍 ¡Explorando Datos! Cargando Archivos en R - 01 📊🔌")](https://www.youtube.com/watch?v=beltQGIiLmc)
 [![De cero a datos](https://ytcards.demolab.com/?id=77c_I7H2n3g&title=De+cero+a+datos&lang=en&timestamp=1711986616&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "De cero a datos")](https://www.youtube.com/watch?v=77c_I7H2n3g)
 <!-- END YOUTUBE-CARDS -->
 
